@@ -1,0 +1,63 @@
+.data-labels
+{
+    -fx-font-size: 11pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: black;
+    -fx-label-padding: 5;
+}
+
+.data-display
+{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Arial";
+    -fx-font-style: italic;
+    -fx-padding: 5,5,5,5;
+}
+
+.statistics-text
+{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Consolas";
+    -fx-padding: 5,5,5,5;
+}
+
+.chart
+{
+    -fx-padding: 10px;
+}
+.chart-content
+{
+    -fx-padding: 30px;
+}
+
+.chart-symbol
+{
+    -fx-background-radius: 4px ;
+    -fx-padding: 4px ;
+    -fx-background-color: black;
+}
+.chart-line-symbol
+{
+    -fx-background-radius: 4px ;
+    -fx-padding: 4px ;
+}
+
+.default-color0.chart-line-symbol
+{
+    -fx-background-color: purple;
+}
+
+.default-color1.chart-line-symbol
+{
+    -fx-background-color: darkorange;
+}
+
+.default-color0.chart-series-line
+{
+    -fx-stroke: purple;
+}
+
+.default-color1.chart-series-line
+{
+    -fx-stroke: darkorange;
+}
